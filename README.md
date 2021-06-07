@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khallouffaycal
-- 👀 I’m interested in Cybersecurity & IA & Flutter
-- 🌱 I’m currently learning reverse
+- 👀 I’m interested in Cybersecurity & IA 
 - 💞️ I’m looking to collaborate on cybersecurity project & app development
 - 📫 How to reach me khallouf.ework@gmail.com
 
