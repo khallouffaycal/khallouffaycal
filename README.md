@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khallouffaycal
 - 👀 I’m interested in Cybersecurity & IA & Computer Networking 
-- 💞️ I’m looking to collaborate on cybersecurity project & app development & Networking
+- 💞️ I’m looking to collaborate on cybersecurity project
 - 📫 How to reach me khallouf.ework@gmail.com
 
 <!---
