@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khallouffaycal
-- 👀 I’m interested in Cybersecurity & Pentest & SOC  
+- 👀 I’m interested in Cybersecurity & Pentesting & SOC  
 - 💞️ I’m looking to collaborate on cybersecurity project
 - 📫 How to reach me khallouf.ework@gmail.com
 
